@@ -1,6 +1,6 @@
 LYHYTTERAPIAN MALLISIVUT
 
-Avaa index.html selaimessa. Sieltä pääset kaikkiin viiteen malliin.
+Avaa index.html selaimessa. Sieltä pääset kaikkiin kahdeksaan malliin.
 Koko hakemiston voi kopioida toiselle koneelle. Säilytä assets-kansio mukana.
 Sivut eivät tarvitse asennuksia, palvelinta tai verkkoyhteyttä.
 
@@ -9,6 +9,9 @@ Sivut eivät tarvitse asennuksia, palvelinta tai verkkoyhteyttä.
 03 Hetki: lämmin ja persoonallinen
 04 Suunta: raikas ja selkeä
 05 Avara: pelkistetty ja ajaton
+06 Säie: pehmeä ja puhutteleva
+07 Luoto: tumma ja arvokas
+08 Kajo: aurinkoinen ja mutkaton
 
 Navigointi, mobiilivalikko, avautuvat kysymykset ja ajanvarauksen esikatselu toimivat.
 Ajanvaraus on vain esittely. Sivut eivät lähetä viestejä tai kerää henkilötietoja.
